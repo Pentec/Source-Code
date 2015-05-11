@@ -1,7 +1,7 @@
-# COS301MainProject
+# __COS301MainProject__
 This repository serves as a hub to store and share code for the COS301 Main Project.
 
-Team Pentec:
+__Team Pentec:__
 * Maria Qumayo - u29461775
 * Liz Joseph - u10075268
 * Trevor Austin - u11310856
