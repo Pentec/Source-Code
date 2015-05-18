@@ -2,7 +2,7 @@
 
 _This repository serves as a hub to store and share code for the COS301 Main Project._
 
-_Put all new developed features in this branch, then integrate._
+_Current version maintained whilst new version is developed. Store all version of different demos here_
 
 __Team Members:__
 * Maria Qumayo -- __29461775__
