@@ -2,6 +2,8 @@
 
 _This repository serves as a hub to store and share code for the COS301 Main Project._
 
+_Develop new feature in separate branch, then integrate._
+
 __Team Members:__
 * Maria Qumayo -- __29461775__
 * Liz Joseph -- __10075268__
