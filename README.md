@@ -1,6 +1,6 @@
 # __COS301 Main Project__
 
-_This repository(Master) serves as a hub to store and share code that is ready to be demoed at any given time.
+_The master branch serves as a hub to store and share code that is ready to be demoed at any given time._
 
 __Team Members:__
 * Maria Qumayo -- __29461775__
