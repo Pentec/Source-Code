@@ -26,7 +26,7 @@ var GynaSerg = new GynaSurgerySchema({
 );
 
 var GynaSergery = mongoose.model('GynaSurgerySchema', GynaSerg );
-mongoose.connect('mongodb://localhost/test');
+mongoose.connect('mongodb://localhost/patients');
 
 console.log('Connected.');
 
