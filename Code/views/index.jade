@@ -1,5 +1,14 @@
 extends layout
-
 block content
-  h1= title
-  p Welcome to #{title}
+    div#sidebar
+        div#sidebar-nav
+            div.sidebar-avatar
+                img(src='images/physician_avatar.png' width="55px").img-circle.img-responsive.center-block
+            ul.nav.nav-stacked.navTab
+                li
+                    a(href="#") Link 1
+                li.active
+                    a(href='#') Link 2
+                li
+                    a(href='#') Link 3
+    div.content

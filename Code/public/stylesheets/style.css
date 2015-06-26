@@ -1,8 +1,39 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.content{
+  margin-left: 85px;
 }
 
-a {
-  color: #00B7FF;
+#sidebar {
+  background-color: #003B79;
+  color: white;
+  height: 100%;
+  padding: 0;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 80px;
+  z-index: 2;
+}
+
+.sidebar-avatar{
+  margin-top:10px;
+}
+
+.navTab{
+  border-top: 1px solid #002E79;
+  margin-top: 100px;
+}
+
+.navTab a{
+  color: #d0d0d0;
+}
+
+.navTab li a:hover{
+  background-color: #002E79;
+}
+
+.navTab .active a,
+.navTab .active a:hover
+{
+  color:white;
+  background-color: #002E79;
 }
