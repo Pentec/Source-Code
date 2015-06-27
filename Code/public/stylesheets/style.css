@@ -1,39 +1,52 @@
-.content{
-  margin-left: 85px;
+.content {
+    margin-left: 85px;
 }
 
 #sidebar {
-  background-color: #003B79;
-  color: white;
-  height: 100%;
-  padding: 0;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 80px;
-  z-index: 2;
+    font-family: 'Open Sans';
+    text-align: center;
+    background-color: #003B79;
+    color: white;
+    height: 100%;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    z-index: 2;
 }
 
-.sidebar-avatar{
-  margin-top:10px;
+.sidebar-avatar {
+    margin-top: 10px;
+
+    font-size: 10px;
 }
 
-.navTab{
-  border-top: 1px solid #002E79;
-  margin-top: 100px;
+.navTab {
+    border-top: 2px solid #002E79;
+    margin-top: 100px;
 }
 
-.navTab a{
-  color: #d0d0d0;
+.sidebar-settings {
+    border-top: 2px solid #002E79;
+    background-color: #001f41;
+    position: absolute;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 105px;
+    bottom: 0;
 }
 
-.navTab li a:hover{
-  background-color: #002E79;
+.navTab a {
+    color: #d0d0d0;
+}
+
+.navTab li a:hover {
+    background-color: #001f41;
 }
 
 .navTab .active a,
-.navTab .active a:hover
-{
-  color:white;
-  background-color: #002E79;
+.navTab .active a:hover {
+    color: white;
+    background-color: #001f41;
 }
