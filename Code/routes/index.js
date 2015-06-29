@@ -11,4 +11,10 @@ router.get('/login', function(req, res, next) {
     res.render('login', { title: 'PIMS Login Page' });
 });
 
+/* Add New User page */
+router.get('/add', function(req, res, next) {
+    res.render('add', { title: 'Kalafong PIMS - Add New User' });
+});
+
+
 module.exports = router;
