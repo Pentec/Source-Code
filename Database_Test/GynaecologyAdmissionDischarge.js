@@ -26,7 +26,7 @@ var admissionDischarge = new ADSchema({
 	}
 );
 var AD = mongoose.model('ADSchema', admissionDischarge);
-mongoose.connect('mongodb://localhost/patients');
+mongoose.connect('mongodb://localhost/patientsT');
 	
 console.log('Connected.');
 	
